@@ -31,7 +31,7 @@ onSearchChange = (e) => {
         )
       return (
         <div className="App">
-        <h1>Monster Tracker</h1>
+        <h1>Monster Deck</h1>
           <SearchBox
             placeholder="search monsters"
             onSearchChange={this.onSearchChange} 
